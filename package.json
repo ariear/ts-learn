@@ -3,6 +3,6 @@
     "typescript": "^4.6.4"
   },
   "scripts": {
-    "ts": "npx ts-node src/array-tuples.ts"
+    "ts": "npx ts-node src/object.ts"
   }
 }
