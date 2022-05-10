@@ -3,6 +3,6 @@
     "typescript": "^4.6.4"
   },
   "scripts": {
-    "ts": "tsc src/functions.ts"
+    "ts": "tsc src/class.ts"
   }
 }
